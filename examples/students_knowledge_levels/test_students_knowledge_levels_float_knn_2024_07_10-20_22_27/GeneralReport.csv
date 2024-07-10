@@ -1,0 +1,2 @@
+Samples,Attributes,Features,Classes,Samples per Class,Class Labels,Nodes,Decision Nodes,Leaf Nodes,Undefined Leaf Nodes,Decision Paths
+403,6,5,4,"[50, 102, 129, 122]","[0, 1, 2, 3]",61,30,31,0,31
