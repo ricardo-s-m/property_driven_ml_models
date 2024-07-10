@@ -1,0 +1,10 @@
+TestGlassIdentification
+test_glass_identification
+glass_identification_dt
+--criteria=DTC,BVA
+--training_size_rate=0.9
+--target_ml_model=KNN
+--export_target_model=True
+--experimentation
+--source_file=.\datasets\glass_identification.csv
+--destination_directory=.\examples\glass_identification

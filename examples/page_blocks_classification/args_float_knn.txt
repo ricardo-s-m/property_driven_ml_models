@@ -1,0 +1,10 @@
+TestPageBlocksClassification
+test_page_blocks_classification
+page_blocks_classification_dt
+--criteria=DTC,BVA
+--training_size_rate=0.9
+--target_ml_model=KNN
+--export_target_model=True
+--experimentation
+--source_file=.\datasets\page_blocks_classification.csv
+--destination_directory=.\examples\page_blocks_classification

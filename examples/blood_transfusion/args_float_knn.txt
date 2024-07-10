@@ -1,0 +1,10 @@
+TestBloodTransfusion
+test_blood_transfusion
+blood_transfusion_dt
+--criteria=DTC,BVA
+--training_size_rate=0.9
+--target_ml_model=KNN
+--export_target_model=True
+--experimentation
+--source_file=.\datasets\blood_transfusion.csv
+--destination_directory=.\examples\blood_transfusion

@@ -1,0 +1,10 @@
+TestIonosphere
+test_ionosphere
+ionosphere_dt
+--criteria=DTC,BVA
+--training_size_rate=0.9
+--target_ml_model=KNN
+--export_target_model=True
+--experimentation
+--source_file=.\datasets\ionosphere.csv
+--destination_directory=.\examples\ionosphere\

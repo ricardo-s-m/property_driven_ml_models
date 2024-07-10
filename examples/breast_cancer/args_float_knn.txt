@@ -1,0 +1,10 @@
+TestBreastCancer
+test_breast_cancer
+breast_cancer_dt
+--criteria=DTC,BVA
+--training_size_rate=0.9
+--target_ml_model=KNN
+--export_target_model=True
+--experimentation
+--source_file=.\datasets\breast_cancer.csv
+--destination_directory=.\examples\breast_cancer

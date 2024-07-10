@@ -1,0 +1,10 @@
+TestPimaIndiansDiabetes
+test_pima_indians_diabetes
+pima_indians_diabetes_dt
+--criteria=DTC,BVA
+--training_size_rate=0.9
+--target_ml_model=KNN
+--export_target_model=True
+--experimentation
+--source_file=.\datasets\pima_indians_diabetes.csv
+--destination_directory=.\examples\pima_indians_diabetes

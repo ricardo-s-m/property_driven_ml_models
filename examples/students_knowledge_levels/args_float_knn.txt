@@ -1,0 +1,10 @@
+TestStudentsKnowledgeLevels
+test_students_knowledge_levels
+students_knowledge_levels_dt
+--criteria=DTC,BVA
+--training_size_rate=0.9
+--target_ml_model=KNN
+--export_target_model=True
+--experimentation
+--source_file=.\datasets\students_knowledge_levels.csv
+--destination_directory=.\examples\students_knowledge_levels

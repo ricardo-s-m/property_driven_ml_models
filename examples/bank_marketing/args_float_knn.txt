@@ -1,0 +1,10 @@
+TestBankMarketing
+test_bank_marketing
+bank_marketing_dt
+--criteria=DTC,BVA
+--training_size_rate=0.9
+--target_ml_model=KNN
+--export_target_model=True
+--experimentation
+--source_file=.\datasets\bank_marketing.csv
+--destination_directory=.\examples\bank_marketing
